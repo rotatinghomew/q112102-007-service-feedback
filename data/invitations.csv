@@ -1,0 +1,5 @@
+invite_id,service_id,sent_at,delivery_state,survey_version
+I-1,S-1,2026-01-12,delivered,V-1
+I-2,S-2,2026-01-12,delivered,V-1
+I-3,S-3,2026-01-13,unknown,V-2
+I-4,S-4,2026-01-13,declined,V-2
