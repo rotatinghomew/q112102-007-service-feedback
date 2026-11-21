@@ -1,0 +1,11 @@
+invite,person,service,period,form,contact,status
+i1,p1,访视,五月,A,both,answered
+i2,p2,访视,五月,A,follow,answered
+i3,p3,访视,五月,A,none,not_answered
+i4,p4,访视,五月,A,follow,answered
+i5,p5,访视,六月,B,bridge,answered
+i6,p6,访视,六月,B,both,answered
+i7,p7,访视,六月,B,none,not_answered
+i8,p8,访视,六月,B,follow,answered
+i9,p9,陪同,五月,A,both,answered
+i10,p10,陪同,六月,B,both,answered

@@ -1,0 +1,9 @@
+id,person,service,old_item,new_item,old_score,new_score,days,intervening_service,void_at
+b1,q1,访视,A1,B1,4,4,2,0,2026-07-06
+b2,q2,访视,A1,B1,3,3,1,0,
+b3,q3,访视,A1,B1,4,5,2,0,
+b4,q4,访视,A1,B1,3,3,1,1,
+b5,q1,访视,A1,B3,5,4,2,0,
+b6,q2,访视,A1,B3,4,3,1,0,
+b7,q3,访视,A1,B3,4,4,9,0,
+b8,q5,陪同,A1,B1,4,4,2,0,

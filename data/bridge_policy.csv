@@ -1,0 +1,3 @@
+service,min_pairs,window_days,max_abs_mean_diff,max_opposite_share
+访视,3,5,0.6,0.25
+陪同,3,5,0.8,0.25
